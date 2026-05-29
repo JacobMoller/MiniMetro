@@ -1,4 +1,4 @@
-# Mini Metro – ESP32 Project
+# Mini Metro
 
 ![Web Platform](images/web-platform.png)
 
